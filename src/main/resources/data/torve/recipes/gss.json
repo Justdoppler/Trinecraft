@@ -1,0 +1,19 @@
+{
+  "group": "torve",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "torve:jadeclover"
+    },
+    {
+      "item": "torve:sunlightbulb"
+    },
+    {
+      "item": "torve:tentacleofqbthulhu"
+    }
+  ],
+  "result": {
+    "item": "torve:greensteel",
+    "count": 1
+  }
+}

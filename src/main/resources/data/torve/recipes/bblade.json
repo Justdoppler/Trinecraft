@@ -1,0 +1,24 @@
+{
+  "group": "torve",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "torve:pentaforgedshadowsoul"
+    },
+    "1": {
+      "item": "torve:quadforgedshadowsoul"
+    },
+    "2": {
+      "item": "torve:shapestoneore"
+    }
+  },
+  "result": {
+    "item": "torve:bisectedblade",
+    "count": 1
+  }
+}

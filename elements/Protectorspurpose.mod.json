@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "pp",
+    "customModelName": "Normal",
+    "name": "Protectorspurpose",
+    "creativeTab": {
+      "value": "CUSTOM:TroveIcon"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 5,
+    "efficiency": 4.0,
+    "attackSpeed": 33.0,
+    "enchantability": 2,
+    "damageVsEntity": 22.0,
+    "usageCount": 3244,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": []
+  }
+}

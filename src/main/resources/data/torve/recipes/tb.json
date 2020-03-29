@@ -1,0 +1,19 @@
+{
+  "group": "torve",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "torve:diamonddragonite"
+    },
+    {
+      "item": "torve:bindingdarkness"
+    },
+    {
+      "item": "torve:radiantshard"
+    }
+  ],
+  "result": {
+    "item": "torve:tblade",
+    "count": 1
+  }
+}

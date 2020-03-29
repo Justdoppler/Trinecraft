@@ -1,0 +1,19 @@
+{
+  "group": "torve",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "torve:empoweredgemfragment"
+    },
+    {
+      "item": "torve:forgedradiantsoul"
+    },
+    {
+      "item": "minecraft:diamond_sword"
+    }
+  ],
+  "result": {
+    "item": "torve:trove",
+    "count": 1
+  }
+}

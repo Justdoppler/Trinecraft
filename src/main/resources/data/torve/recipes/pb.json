@@ -1,0 +1,19 @@
+{
+  "group": "torve",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "torve:glacialshard"
+    },
+    {
+      "item": "torve:empoweredgemfragment"
+    },
+    {
+      "item": "torve:enchantedwood"
+    }
+  ],
+  "result": {
+    "item": "torve:practicebow",
+    "count": 1
+  }
+}

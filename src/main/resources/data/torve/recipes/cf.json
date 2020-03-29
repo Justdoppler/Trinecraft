@@ -1,0 +1,19 @@
+{
+  "group": "torve",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "torve:jadeclover"
+    },
+    {
+      "item": "torve:crystalclouds"
+    },
+    {
+      "item": "torve:eyeofqbthulhu"
+    }
+  ],
+  "result": {
+    "item": "torve:chefsfavorite",
+    "count": 1
+  }
+}

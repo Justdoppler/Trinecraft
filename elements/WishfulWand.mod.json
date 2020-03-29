@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "gyhrh",
+    "customModelName": "Normal",
+    "name": "Wishful Wand",
+    "creativeTab": {
+      "value": "CUSTOM:TroveIcon"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 3,
+    "efficiency": 4.0,
+    "attackSpeed": 33.0,
+    "enchantability": 2,
+    "damageVsEntity": 23.0,
+    "usageCount": 2355,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

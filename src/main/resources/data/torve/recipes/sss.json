@@ -1,0 +1,19 @@
+{
+  "group": "torve",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "torve:mushroomchunks"
+    },
+    {
+      "item": "torve:wildcupcake"
+    },
+    {
+      "item": "torve:lunarsoul"
+    }
+  ],
+  "result": {
+    "item": "torve:severancesuffer",
+    "count": 1
+  }
+}

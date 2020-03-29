@@ -1,0 +1,37 @@
+{
+  "group": "torve",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "torve:enchantedwood"
+    },
+    {
+      "item": "torve:enchantedwood"
+    },
+    {
+      "item": "torve:enchantedwood"
+    },
+    {
+      "item": "torve:enchantedwood"
+    },
+    {
+      "item": "torve:chaoscore"
+    },
+    {
+      "item": "torve:enchantedwood"
+    },
+    {
+      "item": "torve:enchantedwood"
+    },
+    {
+      "item": "torve:enchantedwood"
+    },
+    {
+      "item": "torve:enchantedwood"
+    }
+  ],
+  "result": {
+    "item": "torve:unknown_element",
+    "count": 1
+  }
+}

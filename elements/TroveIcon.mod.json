@@ -1,0 +1,11 @@
+{
+  "_fv": 6,
+  "_type": "tab",
+  "definition": {
+    "name": "Trove Icon",
+    "icon": {
+      "value": "Blocks.GOLD_BLOCK"
+    },
+    "showSearch": true
+  }
+}

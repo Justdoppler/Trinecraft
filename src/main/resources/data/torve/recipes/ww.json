@@ -1,0 +1,19 @@
+{
+  "group": "torve",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "torve:sunseekerelixir"
+    },
+    {
+      "item": "torve:pearlofwisdom"
+    },
+    {
+      "item": "torve:ninthlife"
+    }
+  ],
+  "result": {
+    "item": "torve:wishfulwand",
+    "count": 1
+  }
+}

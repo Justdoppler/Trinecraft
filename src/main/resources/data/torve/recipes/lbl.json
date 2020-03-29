@@ -1,0 +1,19 @@
+{
+  "group": "torve",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "torve:dispoileddivinity"
+    },
+    {
+      "item": "torve:chefsfavorite"
+    },
+    {
+      "item": "torve:quadforgedshadowsoul"
+    }
+  ],
+  "result": {
+    "item": "torve:longbladelancer",
+    "count": 1
+  }
+}

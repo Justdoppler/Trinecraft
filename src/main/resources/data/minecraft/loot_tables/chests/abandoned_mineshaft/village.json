@@ -1,0 +1,295 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "torve:sunseekerelixir",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:wildcupcake",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:doublexppotion",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:doubledragoncoins",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:confetiball",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:airgemdust",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:acientscale",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:arenacoin",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:bleachedbone",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:bindingdarkness",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:blankscroll",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:bottle",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:boundbrilliance",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:chaoscore",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:classgemkeyfragment",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:fluxcylinder",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:cosmicgemdust",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:crystalclouds",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:dragoncoin",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:diamonddragonite",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:dispoileddivinity",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:diamond",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:enchantedwood",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:enchanctedscale",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:empoweredgemfragment",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:firegemdust",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:eyeofqbthulhu",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:faeriedust",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:formiciteore",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:forgedstellarsoul",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:forgedradiantsoul",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:flux",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:glim",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:glacialshard",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:heartofdarkness",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:goldensoul",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:infiniumore",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:lunarsoul",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:moonlightbulb",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:mushroomchunks",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:pearlofwisdom",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:pentaforgedshadowsoul",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:quadforgedshadowsoul",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:purifyingdragonflame",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:primordialflame",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:radiantshard",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:romboticsalvage",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:shadowshard",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:shapestoneore",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:sombersoul",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:stickyichor",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:sunlightbulb",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:tentacleofqbthulhu",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:watergemdust",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:ninthlife",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:lapisladybug",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "torve:jadeclover",
+          "weight": 45
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "group": "torve",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "torve:pearlofwisdom"
+    },
+    {
+      "item": "torve:quadforgedshadowsoul"
+    },
+    {
+      "item": "torve:romboticsalvage"
+    }
+  ],
+  "result": {
+    "item": "torve:plainpummeler",
+    "count": 1
+  }
+}

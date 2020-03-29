@@ -1,0 +1,12 @@
+{
+  "parent": "torve:custom/craftingtable",
+  "textures": {
+    "all": "torve:blocks/86260a64-7e56-4371-86cb-3fe940063dc3",
+    "particle": "torve:blocks/86260a64-7e56-4371-86cb-3fe940063dc3",
+    "0": "torve:blocks/tools",
+    "1": "torve:blocks/tools2",
+    "2": "torve:blocks/tablebrown",
+    "3": "torve:blocks/frames",
+    "4": "torve:blocks/lastt"
+  }
+}

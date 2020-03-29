@@ -1,0 +1,119 @@
+{
+  "chestopen": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "torve:0137",
+        "stream": false
+      }
+    ]
+  },
+  "click": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "torve:0120",
+        "stream": false
+      }
+    ]
+  },
+  "respawn": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "torve:0111",
+        "stream": false
+      }
+    ]
+  },
+  "drop": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "torve:0100",
+        "stream": false
+      }
+    ]
+  },
+  "smelt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "torve:0095",
+        "stream": false
+      }
+    ]
+  },
+  "pickup": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "torve:0081",
+        "stream": false
+      }
+    ]
+  },
+  "kill": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "torve:0069",
+        "stream": false
+      }
+    ]
+  },
+  "level": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "torve:0090",
+        "stream": false
+      }
+    ]
+  },
+  "brokenblock": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "torve:0164",
+        "stream": false
+      }
+    ]
+  },
+  "place": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "torve:0025",
+        "stream": false
+      }
+    ]
+  },
+  "bomb": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "torve:0039",
+        "stream": false
+      }
+    ]
+  },
+  "attack": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "torve:0037",
+        "stream": false
+      }
+    ]
+  },
+  "die": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "torve:0019",
+        "stream": false
+      }
+    ]
+  }
+}

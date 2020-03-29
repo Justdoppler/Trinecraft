@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "torve:blocks/cnbcn",
+    "particle": "torve:blocks/cnbcn"
+  }
+}

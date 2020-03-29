@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "head",
+    "customModelName": "Normal",
+    "name": "Hollow Head",
+    "creativeTab": {
+      "value": "CUSTOM:TroveIcon"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 4.0,
+    "attackSpeed": 17.0,
+    "enchantability": 2,
+    "damageVsEntity": 15.0,
+    "usageCount": 4356,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

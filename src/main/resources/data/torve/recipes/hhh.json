@@ -1,0 +1,19 @@
+{
+  "group": "torve",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "torve:airgemdust"
+    },
+    {
+      "item": "torve:heartofdarkness"
+    },
+    {
+      "item": "torve:doubledragoncoins"
+    }
+  ],
+  "result": {
+    "item": "torve:hollowhead",
+    "count": 1
+  }
+}

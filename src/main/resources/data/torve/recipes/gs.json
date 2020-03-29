@@ -1,0 +1,19 @@
+{
+  "group": "torve",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "torve:sombersoul"
+    },
+    {
+      "item": "torve:moonlightbulb"
+    },
+    {
+      "item": "torve:dispoileddivinity"
+    }
+  ],
+  "result": {
+    "item": "torve:glasssword",
+    "count": 1
+  }
+}

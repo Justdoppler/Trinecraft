@@ -1,0 +1,19 @@
+{
+  "group": "torve",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "torve:bleachedbone"
+    },
+    {
+      "item": "torve:bleachedbone"
+    },
+    {
+      "item": "torve:glacialshard"
+    }
+  ],
+  "result": {
+    "item": "torve:hookedhacker",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "group": "torve",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "torve:shadowshard"
+    },
+    {
+      "item": "torve:shadowshard"
+    },
+    {
+      "item": "torve:shapestoneore"
+    }
+  ],
+  "result": {
+    "item": "torve:neon",
+    "count": 1
+  }
+}

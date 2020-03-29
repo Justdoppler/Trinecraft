@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "xzczxc",
+    "customModelName": "Normal",
+    "name": "Long Blade Lancer",
+    "creativeTab": {
+      "value": "CUSTOM:TroveIcon"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 19.0,
+    "enchantability": 2,
+    "damageVsEntity": 33.0,
+    "usageCount": 4355,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

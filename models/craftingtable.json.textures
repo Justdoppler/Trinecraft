@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "tools",
+        "1": "tools2",
+        "2": "tablebrown",
+        "3": "frames",
+        "4": "lastt"
+      },
+      "name": "default"
+    }
+  }
+}

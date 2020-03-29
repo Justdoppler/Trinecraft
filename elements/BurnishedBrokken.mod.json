@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "brokken",
+    "customModelName": "Normal",
+    "name": "Burnished Brokken",
+    "creativeTab": {
+      "value": "CUSTOM:TroveIcon"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 2,
+    "efficiency": 4.0,
+    "attackSpeed": 7.0,
+    "enchantability": 2,
+    "damageVsEntity": 9.0,
+    "usageCount": 456,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

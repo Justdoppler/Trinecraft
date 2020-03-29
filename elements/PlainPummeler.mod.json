@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "plainpummeler",
+    "customModelName": "Normal",
+    "name": "Plain Pummeler",
+    "creativeTab": {
+      "value": "CUSTOM:TroveIcon"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 4.0,
+    "attackSpeed": 6.0,
+    "enchantability": 2,
+    "damageVsEntity": 11.0,
+    "usageCount": 343,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

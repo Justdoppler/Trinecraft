@@ -1,0 +1,419 @@
+{
+  "_fv": 6,
+  "_type": "loottable",
+  "definition": {
+    "type": "Chest",
+    "pools": [
+      {
+        "minrolls": 1,
+        "maxrolls": 1,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 1,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:SunseekerElixir"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:WildCupcake"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:DoubleXPPotion"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:DoubleDragonCoins"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:ConfetiBall"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:AirgemDust"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:AcientScale"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:ArenaCoin"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:BleachedBone"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:BindingDarkness"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:BlankScroll"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Bottle"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:BoundBrilliance"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:ChaosCore"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:ClassGemKeyFragment"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:FluxCylinder"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:CosmicGemDust"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:CrystalClouds"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:DragonCoin"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:DiamondDragonite"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:DispoiledDivinity"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Diamond"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Enchantedwood"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:EnchanctedScale"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:EmpoweredGemFragment"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:FireGemDust"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:EyeOfQbthulhu"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:FaerieDust"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:FormiciteOre"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:ForgedStellarSoul"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:ForgedRadiantSoul"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Flux"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Glim"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:GlacialShard"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:HeartOfDarkness"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:GoldenSoul"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:InfiniumOre"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:LunarSoul"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:MoonlightBulb"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:MushroomChunks"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:PearlOfWisdom"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:PentaForgedShadowSoul"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:QuadForgedShadowSoul"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:PurifyingDragonFlame"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:PrimordialFlame"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:RadiantShard"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:RomboticSalvage"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:ShadowShard"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:ShapestoneOre"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:SomberSoul"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:StickyIchor"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:SunlightBulb"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:TentacleOfQbthulhu"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:WaterGemDust"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:NinthLife"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:LapisLadybug"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:JadeClover"
+            },
+            "weight": 45
+          }
+        ]
+      }
+    ],
+    "name": "chests/abandoned_mineshaft/village",
+    "namespace": "minecraft"
+  }
+}

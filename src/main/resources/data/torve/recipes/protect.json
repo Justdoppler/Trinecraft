@@ -1,0 +1,19 @@
+{
+  "group": "torve",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "torve:sunseekerelixir"
+    },
+    {
+      "item": "torve:flux"
+    },
+    {
+      "item": "torve:infiniumore"
+    }
+  ],
+  "result": {
+    "item": "torve:protectorspurpose",
+    "count": 1
+  }
+}

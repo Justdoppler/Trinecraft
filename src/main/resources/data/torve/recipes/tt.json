@@ -1,0 +1,19 @@
+{
+  "group": "torve",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "torve:cosmicgemdust"
+    },
+    {
+      "item": "torve:acientscale"
+    },
+    {
+      "item": "torve:watergemdust"
+    }
+  ],
+  "result": {
+    "item": "torve:turftrimmer",
+    "count": 1
+  }
+}
